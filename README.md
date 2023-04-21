@@ -11,7 +11,7 @@ this is a simple web application demonstrating cloth physics using CSS, JavaScri
 
 ## Compatibility
 
-This application has been tested and confirmed to worok on the following web browsers:
+This application has been tested and confirmed to work on the following web browsers:
 
 * Google Chrome
 * Microsoft Edge
